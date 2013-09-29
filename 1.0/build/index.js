@@ -933,7 +933,7 @@ KISSY.add('gallery/nbselect/1.0/index',function(S, XTemplate, DOM, Kscroll){
                     });
                     
                     function ev4doc_mousedown(e){
-                        if( !DOM.contains($set, e.target) && !DOM.contains($trigger.parent(), e.target) ){ //Parent就他一个Child问题不大
+                        if( !DOM.contains($set, e.target) && !DOM.contains($trigger, e.target) ){ //Parent就他一个Child问题不大
                             pop.hide();
                         }
                     }
