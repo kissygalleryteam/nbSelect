@@ -10,5 +10,6 @@
         "page": ""
     },
     "type": "kissy-gallery",
-    "type-url": "http://gallery.kissyui.com/guide"
+    "type-url": "http://gallery.kissyui.com/guide",
+    "desc" : "级联选择框"
 }
