@@ -1,0 +1,14 @@
+{
+    "name": "nbselect",
+    "version": "1.0",
+    "desc": "",
+    "cover": "",
+    "tag":"選擇框, 級聯選擇框",
+    "author": {
+        "name": "九十",
+        "email": "wongguang.wg@alibaba-inc.com",
+        "page": ""
+    },
+    "type": "kissy-gallery",
+    "type-url": "http://gallery.kissyui.com/guide"
+}
