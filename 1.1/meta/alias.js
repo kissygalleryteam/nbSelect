@@ -1,3 +1,3 @@
 config({
-    'gallery/nbSelect/index': {alias: ['gallery/nbSelect/1.0/index']}
+    'gallery/nbSelect/index': {alias: ['gallery/nbSelect/1.1/index']}
 });
