@@ -1,3 +1,3 @@
 config({
-    'gallery/nbselect/index': {requires: ['node','base']}
+    'gallery/nbSelect/index': {requires: ['node','base']}
 });

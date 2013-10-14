@@ -1,7 +1,7 @@
 /**
  * @fileoverview 
  * @author 九十<wongguang.wg@alibaba-inc.com>
- * @module nbselect
+ * @module nbSelect
  **/
 KISSY.add(function(S, XTemplate, DOM, Kscroll){
     

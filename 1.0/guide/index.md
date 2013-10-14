@@ -6,7 +6,7 @@
 * 版本：1.0
 * 作者：九十
 * 标签：选择框、级联选择框
-* demo：[http://gallery.kissyui.com/nbselect/1.0/demo/index.html](http://gallery.kissyui.com/nbselect/1.0/demo/index.html)
+* demo：[http://gallery.kissyui.com/nbSelect/1.0/demo/index.html](http://gallery.kissyui.com/nbSelect/1.0/demo/index.html)
 
 ## 使用方法
 直接看Demo吧。

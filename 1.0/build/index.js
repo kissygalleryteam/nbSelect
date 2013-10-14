@@ -1,8 +1,8 @@
 /*
 combined files : 
 
-gallery/nbselect/1.0/plugin/kscroll
-gallery/nbselect/1.0/index
+1.0/plugin/kscroll
+1.0/index
 
 */
 /*
@@ -16,7 +16,7 @@ gallery/kscroll/1.2/index
  * @author satans17<satans17@gmail.com>
  * @module kscroll
  **/
-KISSY.add('gallery/nbselect/1.0/plugin/kscroll',function (S, Node,Base) {
+KISSY.add('1.0/plugin/kscroll',function (S, Node,Base) {
     var $ = Node.all,
 
         //正数
@@ -594,9 +594,9 @@ KISSY.add('gallery/nbselect/1.0/plugin/kscroll',function (S, Node,Base) {
 /**
  * @fileoverview 
  * @author 九十<wongguang.wg@alibaba-inc.com>
- * @module nbselect
+ * @module nbSelect
  **/
-KISSY.add('gallery/nbselect/1.0/index',function(S, XTemplate, DOM, Kscroll){
+KISSY.add('1.0/index',function(S, XTemplate, DOM, Kscroll){
     
     /* Class AutoModel
      * 为需求编写模型，基本是个不平衡多叉树
