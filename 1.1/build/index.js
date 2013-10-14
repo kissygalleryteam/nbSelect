@@ -16,7 +16,7 @@ gallery/kscroll/1.2/index
  * @author satans17<satans17@gmail.com>
  * @module kscroll
  **/
-KISSY.add('1.1/plugin/kscroll',function (S, Node,Base) {
+KISSY.add('gallery/nbSelect/1.1/plugin/kscroll',function (S, Node,Base) {
     var $ = Node.all,
 
         //正数
@@ -596,7 +596,7 @@ KISSY.add('1.1/plugin/kscroll',function (S, Node,Base) {
  * @author 九十<wongguang.wg@alibaba-inc.com>
  * @module nbSelect
  **/
-KISSY.add('1.1/index',function(S, XTemplate, DOM, Kscroll){
+KISSY.add('gallery/nbSelect/1.1/index',function(S, XTemplate, DOM, Kscroll){
     
     /* Class AutoModel
      * 为需求编写模型，基本是个不平衡多叉树
